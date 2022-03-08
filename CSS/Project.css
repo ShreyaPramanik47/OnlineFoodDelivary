@@ -55,7 +55,7 @@ ul li {
     padding: 2px 8px;
   }
 }
-li a:hover {
+#navitems li a:hover {
   color: black;
   background-color: white;
 }
